@@ -1,2 +1,3 @@
 digitar email
 figitar senha
+digite sua idade
